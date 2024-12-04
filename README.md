@@ -1,27 +1,27 @@
 # Ejercicios_IOT
 Todos los códigos del Cuatrimestre de IOT
 
-#Serie
+# Serie
 
 # Semaforo
 Este código simula un semaforo
 
-#LDR
+# LDR
 
-#Ultrasonico + Serie
+# Ultrasonico + Serie
 
-#LCD + LDR
+# LCD + LDR
 
-#RGB
+# RGB
 
-#DHT1
+# DHT1
 
-#Examen 
+# Examen 
 
-#Pantalla 7 segmentos
+# Pantalla 7 segmentos
 
-#Joystick
+# Joystick
 
-#Botones y Leds 
+# Botones y Leds 
 
-#Teclado de membrana
+# Teclado de membrana
