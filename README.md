@@ -29,7 +29,10 @@ En este examen se ocupo  leds y el sensor de movimiento para prenderlos cada que
 El código simula un dado dentro 1-10  y lo muestra en la pantalla. El programa empieza cuando presionas un boton, entonces la pantalla empieza a mostrar número aleatorios hasta dentenerse en uno número.
 
 # Joystick
+El código nos muestra como funciona cada elemento del joystick, prendiendo un led cada que lo mueves
 
 # Botones y Leds 
+Cada que presiones un boton se prendará un led distinto
 
 # Teclado de membrana
+El código simula un panel de contraseña en cual si te equivocas prende un led rojo y si pones la contraseña correcta prende un led verde
