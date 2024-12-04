@@ -2,6 +2,7 @@
 Todos los códigos del Cuatrimestre de IOT
 
 # Serie
+Código para simular una serie navideña
 
 # Semaforo
 Este código simula un semaforo
