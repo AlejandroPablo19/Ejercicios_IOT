@@ -31,6 +31,9 @@ El código simula un dado dentro 1-10  y lo muestra en la pantalla. El programa 
 # Joystick
 El código nos muestra como funciona cada elemento del joystick, prendiendo un led cada que lo mueves
 
+# Servomotor
+El código tiene una funcioón simple que se ocupa para levantar la tapa de un bote de basura la cual enciende un led verde cuando se abre la tapa y un led rojo cuando se encuentra tapado el bote
+
 # Botones y Leds 
 Cada que presiones un boton se prendará un led distinto
 
